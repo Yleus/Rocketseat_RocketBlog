@@ -4,6 +4,6 @@
 
 # Índice
 
-*[Tecnologias utilizadas](#tecnologias-utilizadas)
+[Tecnologias utilizadas:](#tecnologias-utilizadas)
 HTML
 CSS
